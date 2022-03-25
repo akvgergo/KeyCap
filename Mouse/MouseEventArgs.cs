@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using KeyCap.LowLevel.Win32;
+using KeyCap.LowLevel.Windows;
 
 namespace KeyCap.Mouse {
 

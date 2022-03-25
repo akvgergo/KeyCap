@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace KeyCap.LowLevel.Win32 {
+namespace KeyCap.LowLevel.Windows {
 
     [Flags]
     internal enum KBDLLHOOKSTRUCTFlags : uint {

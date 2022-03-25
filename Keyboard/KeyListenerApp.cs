@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using System.Threading;
 using System.Runtime.InteropServices;
 using System.Diagnostics;
-using KeyCap.LowLevel.Win32;
+using KeyCap.LowLevel.Windows;
 
 namespace KeyCap.Keyboard {
 

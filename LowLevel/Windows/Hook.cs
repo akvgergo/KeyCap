@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.Diagnostics;
 using System.Runtime.InteropServices;
 
-namespace KeyCap.LowLevel.Win32 {
+namespace KeyCap.LowLevel.Windows {
     
     /// <summary>
     /// Stores information about an installed windows hook.

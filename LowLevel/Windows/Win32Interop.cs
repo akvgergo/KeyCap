@@ -5,7 +5,7 @@ using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace KeyCap.LowLevel.Win32 {
+namespace KeyCap.LowLevel.Windows {
 
     //These are only left public to save some boilerplate on the consumer side if there is some
     //need to handle a few special messages. Chances are, if you are using these extensively you should

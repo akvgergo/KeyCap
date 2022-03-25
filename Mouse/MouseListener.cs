@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Runtime.InteropServices;
-using KeyCap.LowLevel.Win32;
+using KeyCap.LowLevel.Windows;
 
 
 namespace KeyCap.Mouse {
