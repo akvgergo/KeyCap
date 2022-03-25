@@ -23,7 +23,7 @@ mono_crash.*
 [Rr]eleases/
 x64/
 x86/
-[Ww][Ii][Nn]32/
+# [Ww][Ii][Nn]32/ Wasn't a wise name choice, huh?
 [Aa][Rr][Mm]/
 [Aa][Rr][Mm]64/
 bld/
@@ -362,5 +362,3 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 
-# Test App
-/App
