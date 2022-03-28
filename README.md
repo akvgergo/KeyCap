@@ -16,15 +16,15 @@ are already available and tested. There are a few reasons:
 * This *may* become multiplatform.
   
   I'm currently working on other projects that utilize this library,
-  and if there is a demand (despite it being notoriously hard), it's nice to have this piece under
-  my control for this possibility.
+  and if there is a demand, it's nice to have this piece under
+  my control for this possibility (despite it being notoriously hard).
   
 * Other similar projects don't quite fit my needs.
 
   Similar projects that I found didn't support eg. cancelling keypresses. On top of that, I wanted to be
   completely independent of not just other packages, but WPF and Winforms too.
   
-As a side note, I highly recommend using other libraries if you're just looking for just global event capture.
+As a side note, I highly recommend using other libraries if you're looking for just global key/mouse event capture.
 They're likely better documented and tested. But if the above also describes what you're looking for,
 give it a try, hopefully I can surprise you.
   
@@ -112,5 +112,5 @@ your program. If you want to do a bit more than just processing input globally, 
 
 # License
 
-(WTFPL)[https://choosealicense.com/licenses/wtfpl/]
+[WTFPL](https://choosealicense.com/licenses/wtfpl/)
   
